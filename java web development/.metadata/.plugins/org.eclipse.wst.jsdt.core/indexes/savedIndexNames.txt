@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\lasit\Desktop\test program\java web development\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2194326735.index
+673581340.index
+3567445608.index
+605503525.index
+2474195445.index
+3739795832.index

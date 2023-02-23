@@ -1,0 +1,69 @@
+commit - undo krnna bari wenna dnwa
+
+--folder create--
+mkdir test-program
+
+--file create--
+touch index.html
+
+--show files--
+ls
+
+--VS code open--
+code .
+
+--GIT repositery--
+git init
+
+--git account connect--
+git config --global user.name 'lasitha-theWolf'
+git config --global user.email 'lasithaheenkenda23@gmail.com'
+
+--git staging area--
+git add index.html
+
+--show committed files--
+git status
+
+--commit krpu ekk eliyta gnna onee nm--
+git rm --cached index.html
+
+--file ekk remove krnna--
+rm index.html
+
+--html file okkma add krnna--
+git add *.html
+
+--hama file ekkma add krnna--
+git add .
+
+--github ekkt comiit krnna--
+git commit
+
+(etkota aluth ekkt ynw. eke type krnna baa. i akura obala :wq ghuwama eliyt ennw
+
+-----commit krnna lesima vidiha----
+git commit -m 'first commit'
+
+--add wenna awasha nti wewa dnna--
+touch git.ingnore
+
+-- branch ekk hdnna--
+git branch login
+
+--branch ekata ynna--
+git checkout login
+
+--ayeth master branch ekt ynna--
+git checkout master
+
+--merge krnna--
+git merge login
+
+--github ekt dnna--
+git remote add origin https://github.com/lasitha-theWolf/test-program.git
+git branch -M main
+git push -u origin main
+
+
+

@@ -1,0 +1,5 @@
+﻿  1.cpp
+C:\Users\lasit\Desktop\test program\C++\ooc test practies\1\1\1.cpp(68,87): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lasit\Desktop\test program\C++\ooc test practies\1\1\1.cpp(69,87): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\lasit\Desktop\test program\C++\ooc test practies\1\1\1.cpp(70,92): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  1.vcxproj -> C:\Users\lasit\Desktop\test program\C++\ooc test practies\1\Debug\1.exe
