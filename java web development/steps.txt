@@ -1,7 +1,0 @@
-1. make the database.
-2.open dynamic web page.
-3.copy jar file to web-inf lib.
-4.right click the project>properties > java bulid path > click the class path > add extrenal jars> add java.serlet
-    ,mysql-connector,servlet-api.
-5.java resources -> open package.
-6.inside the package open a servlet, close the constractor, close the doget method.
